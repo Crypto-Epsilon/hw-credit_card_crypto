@@ -7,9 +7,12 @@ module DoubleTranspositionCipher
     # 3. sort rows in predictibly random way using key as seed
     # 4. sort columns of each row in predictibly random way
     # 5. return joined cyphertext
+    
+    
   end
 
   def self.decrypt(ciphertext, key)
     # TODO: FILL THIS IN!
   end
 end
+
